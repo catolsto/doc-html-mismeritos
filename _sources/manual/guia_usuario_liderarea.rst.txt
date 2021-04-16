@@ -1,0 +1,78 @@
+==============================
+Guía del Usuario Líder de Área
+==============================
+
+En esta sección veremos las opciones y navegación, asi como las actividades
+que puede desarrollar un **Usuario Lider de Area** o **Usuario Jefe** en la 
+aplicación de **Mis Méritos**.
+
+Las opciones son las mismas que abordamos en la **Guía del Usuario Colaborador**
+pero adicionalmente aparece en el menú lateral izquierdo la opción para la 
+asignación de **Méritos Empresariales**.
+
+.. image:: /img/menu-meritosempresa-asigna.jpg
+    :align: center
+
+.. note:: Recordemos que un Mérito Empresarial, es un mérito definido por el Staff 
+    de la Empresa de modo que estos estan alineados con los objetivos y valores 
+    coorporativos. Este tipo de mérito es asignado por los perfiles de Jefes de 
+    áreas y/o gerencia.
+
+
+Asignar un Mértito Empresarial
+##############################
+
+1. Ingresa a la opción "Mértios Empresariales".
+
+2. Aparecerá la siguiente pantalla, en ella podrás ver el Mérito a asignar,
+   los puntos, el Stock Inicial y Actual del Mérito (es decir la cantidad de
+   Méritos disponibles de este tipo), y su Costo.
+
+.. image:: /img/meritos-empresa-asigna.jpg
+    :align: center
+
+3. Presiona el botón correspondiente para asignar el Mérito Empresarial.
+
+.. image:: /img/btn-meritoemp-asigna.jpg
+    :align: center
+
+4. Aparecerá la siguiente pantalla, indicado los puntos que se asignarán a cada 
+   colaborador y bajo que **Etiqueta**
+
+.. image:: /img/merito-empresa-asignar.jpg
+    :align: center
+
+5. En el campo de **¿Quién(es) recibe(n) el Mérito?** haz cick, aparecerá una 
+   lista de los usuarios de la empresa, si digitas una letra o palabra el campo
+   traerá el los usuarios que concuerden con el criterio dado.
+
+.. image:: /img/campo-quienes.jpg
+    :align: center
+   
+6. El sistema trae por defecto el **Texto del Mérito**, pero puedes modificarlo para 
+   personalizarlo a tu gusto.
+
+6. Si deseas utiliza el campo **Evidencia**, para adjuntar un archivo que compruebe 
+   el cumplimento del Mérito.
+
+7. Puedes seleccionar un GIF Animado o un Sticker a incluir en tu Mérito, para ello
+   digita un criterio en el campo **Añáde una animación!** por ejemplO: "gracias" luego
+   presiona el botón "Buscar Sticker" o  "Buscar Gif", aparece un lista de posibles
+   animaciones, pudes ver más haciendo scroll, selecciona la que más te agrade.
+
+.. image:: /img/busca-animacion.jpg
+    :align: center
+
+8. Presiona el botón **"Asignar el Mérito"**.
+
+9. Si todo va bien, el Mérito es asignado y su respectiva publicación aparecerá
+   en el Muro, con el mensaje de que el Mérito Empresarial ha sido creado, tal 
+   como se muestra en la imagen:
+
+.. image:: /img/merito-empresa-publicado.jpg
+   :align: center
+
+
+.. important:: Recordemos que el resto de opciones de un usuario Lider de Área son
+    iguales a las ya explicada en la **Guía de Colaborador**
+

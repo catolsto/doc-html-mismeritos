@@ -1,0 +1,14 @@
+============
+Introducción
+============
+
+¿Qué es **MisMéritos**?
+-----------------------
+
+**MisMéritos** es una plataforma en la nube, para dar reconocimiento a los empleados de 
+una empresa con el fin de que estos acumulen puntos, los cuales son canjeables 
+por premios que otorga la empresa con el fin de motivar a sus empleados y compensarlos 
+por sus logros y/o méritos obtenidos.
+
+
+

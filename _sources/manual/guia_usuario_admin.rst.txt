@@ -1,0 +1,7 @@
+==============================
+Guía del Usuario Administrador
+==============================
+
+En esta sección veremos las opciones y navegación, asi como las actividades
+que puede desarrollar un **Usuario Administrador** o el Usurio de **Recursos Humanos**
+de la empresa, en la aplicación de **Mis Méritos**.

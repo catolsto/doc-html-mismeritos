@@ -1,0 +1,45 @@
+Bienvenido a ...
+================
+
+.. image:: /img/logomismeritos.jpg
+   :align: center
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Empezando:
+
+   manual/introduccion
+   manual/tipos_usuarios
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Colaborador:  
+
+   manual/guia_usuario_colaborador
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Líder de Área:
+
+   manual/guia_usuario_liderarea
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Recursos Humanos:
+
+   manual/guia_usuario_admin
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Conceptos:
+
+   manual/conceptos
+
+
+Indices
+=======
+
+* :ref:`genindex`
+* :ref:`search`
+
+¡Espero que esta información te haya sido de utilidad!

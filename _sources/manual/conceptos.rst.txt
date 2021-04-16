@@ -1,0 +1,180 @@
+=================
+Conceptos Básicos
+=================
+
+El Muro
+#######
+
+Tal como una Red Social, en el Muro se realizan las Publicaciones 
+de los diferentes Méritos.
+
+Méritos
+#######
+
+Un **Mérito** es una publicación en el muro, por medio de la cual se 
+reconoce un esfuerzo por el trabajo realizado a un colaborador, 
+a este reconocimiento se le asignan cierta cantidad de puntos 
+los cuales son acumulados por los usuarios para luego redimirlos 
+por premios.
+
+.. note:: Cada Mérito puede incluir Emoticones, GIF animados y 
+    claro los puntos que vas a asignar en el mérito.
+
+Tipos de Méritos
+----------------
+
+Un Mérito puede ser de dos tipos: ``Propio`` o ``Empresarial``.
+
+Mérito Propio
+#############
+
+Los **Méritos Propios** sirven para reconocer el trabajo a los 
+pares y colaboradores de manera sencilla y efectiva.
+
+Ejemplos de Méritos Propios
+---------------------------
+
+    * Un usuario le agradece a otro por su ayuda,
+    * Un usuario reconoce a su jefe su Gestión,
+    * Un usuario explica un tema a otro.
+
+Mérito Empresarial
+##################
+
+Un Mérito Empresarial, es un mérito definido por el Staff de 
+la Empresa de modo que estos estan alineados con los objetivos 
+y valores coorporativos. Este tipo de mérito es asignado por 
+los perfiles de Jefes de áreas y/o gerencia.
+
+Ejemplos de Méritos Empresariales: 
+----------------------------------
+
+    * Calificar Pruebas de Selección, 
+    * Realizar entrevista a un candidato, 
+    * Dictar capacitación interna, 
+    * Ahorro de servicios en la sede, entre otros.
+
+Apoyo a un Mérito
+#################
+
+Los **Méritos** con los puntos asignados son publicados en el Muro, 
+en donde todos pueden verlos, darles **“Me gusta”** e incluso aumentar 
+la cantidad de puntos asignados originalmente, realizando 
+un comentario con puntos extra que se sumarán a los puntos 
+originales.
+
+Incentivos
+##########
+
+Un **Incentivo** es un premio u obsequio que la empresa 
+está dispuesta a otorgar a un empleado, el cual puede 
+canjear un vez halla acumulado cierta cantidad de puntos.
+
+El colaborador puede navegar por un catálogo de Incentivos, 
+los cuales estan organizados según su categoria, cada incentivo 
+posee un valor en puntos y maneja su propio stock.
+
+
+.. important:: La empresa es quien entrega los premios y establece 
+    los puntos necesarios para realizar el canje.
+
+Ejemplos:
+---------
+
+    * Suscripción a una Revista Técnica,
+    * Bonos Sodexo, 
+    * Salida a Cine, 
+    * Cena en un Restaurante, 
+    * Un bono de una Pizza, 
+    * Un Viaje, 
+    * Participación en evento, entre otros.
+
+Trabajos
+########
+
+Los Trabajos permite automatizar la asignación de méritos 
+por parte de la empresa.
+
+Una Trabajo puede ser de dos tipos: Automático o Manual.
+
+Trabajos Manuales
+-----------------
+
+Son ejecutadas en el momento que el usuario de Gestión Humana decida
+y se crean a partir de **Méritos Empresariales** definidos, una vez
+ejecutado el proceso las Publicaciones de los Méritos son reslizadas
+de modo automático a los usuarios escogidos de modo masivo. 
+
+Ejemplos:
+---------
+
+    * Puntos por el día de la mujer,
+    * Puntos por el día del padre,
+    * Puntos por llegar en bicicleta a la empresa.
+
+Tares Automáticas
+-----------------
+
+Son ejecutadas si es válida una regla configurada, las reglas 
+establecen validaciones para que los **Méritos Empresariales** sean
+asigandos.
+
+Ejemplos
+--------
+
+    * Puntos de Bienvenida, 
+    * Puntos Asignados Mensualmente,
+    * Aniversario en la empresa,
+    * Cumpleaños de un Colaborador.
+
+.. important:: La ejeccución del trabajo crea la Publicación en el muro y sus 
+    Movimientos asociados.
+
+Colaboradores
+#############
+
+Estos son los usuarios del sistema o los empleados de la empresa.
+
+Tal como en un red social los Colaboradores siempre estan a la 
+mano, para ser consultados, asignarles méritos o ver los méritos 
+que ellos ha ganado. Lo cual genera una sana competencia entre 
+los empleados de la empresa.
+
+Presupuesto
+###########
+
+Se requiere establecer un Presupuesto Anual de Trabajo, en donde se 
+toman en cuanta los **Méritos Propios y Empresariales**, a asignar durante 
+el periodo (usualmente de un año). 
+
+.. important:: Una vez aprobado este Presupuesto, este se ira ejecutado en la 
+    medida que los Méritos sean asigandos. El usuario de Gestión Humana
+    puede realizar un seguimiento a la ejecución del Presupuesto establecido.
+
+
+Etiquetas
+#########
+
+Estas corresponden a los **valores principales** de la empresa 
+y cada ve que se otorge un Mérito, este deberá estar asociado a
+una **Etiqueta** especifica.
+
+Ejemplos:
+---------
+
+    * Trabajo en equipo
+    * Agregamos valor
+    * Vamos a Brillar
+    * Si se puede
+
+Mi Historial
+############
+
+Son los movimientos que se han registrado por cada colaborador.
+Tal como una cuenta bancaria en este se muestran los puntos que 
+el colaborador va acumulando y los que va dando, asi como el
+detalle de cada movimiento y su fecha.
+
+
+
+
